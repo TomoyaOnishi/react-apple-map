@@ -1,10 +1,10 @@
 {
   "name": "react-apple-map",
-  "version": "0.1.7",
-  "main": "build/index.js",
-  "module": "build/index.js",
+  "version": "0.1.8",
+  "main": "lib/index.js",
+  "module": "lib/index.js",
   "files": [
-    "build",
+    "lib",
     "README.md"
   ],
   "repository": {
@@ -14,7 +14,7 @@
   "dependencies": {},
   "scripts": {
     "start": "react-scripts start",
-    "build": "rm -rf build && NODE_ENV=production tsc",
+    "build": "rm -rf lib && NODE_ENV=production tsc",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
