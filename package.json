@@ -1,8 +1,8 @@
 {
   "name": "react-apple-map",
-  "version": "0.1.5",
-  "main": "src/lib/index.js",
-  "module": "src/lib/index.js",
+  "version": "0.1.7",
+  "main": "build/index.js",
+  "module": "build/index.js",
   "files": [
     "build",
     "README.md"
