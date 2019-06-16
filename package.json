@@ -1,9 +1,12 @@
 {
   "name": "react-apple-map",
-  "version": "0.1.19",
-  "main": "./lib/index.js",
+  "version": "0.1.20",
+  "main": "index.js",
   "files": [
     "lib",
+    "index.js",
+    "index.js.map",
+    "index.d.ts",
     "README.md"
   ],
   "repository": {
