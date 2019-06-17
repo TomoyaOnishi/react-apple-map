@@ -1,2 +1,2 @@
-export {testMethod} from './typescript';
-export {TestComponent} from './TestComponent';
+export {testMethod} from './lib/typescript';
+export {TestComponent} from './lib/TestComponent';
